@@ -1,0 +1,18 @@
+.modal {
+  background-color: rgba(0, 0, 0, 0.5);
+  
+
+}
+
+.modal--open {
+  display: flex;
+}
+
+.modal-dialog {
+  max-width: 80%;
+
+}
+
+.block {
+  display: block;
+}
